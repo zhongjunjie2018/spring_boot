@@ -1,0 +1,8 @@
+GET http://localhost:8080/user/queryUser?username=zjj
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-21T105450.200.json
+
+###
+
